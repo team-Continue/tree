@@ -1,0 +1,5 @@
+package com.kita.tree.vo;
+
+public class Board {
+
+}

@@ -1,0 +1,7 @@
+package com.kita.tree.vo;
+
+/*일단 메인을 보드라고 하겠움*/
+
+public class Board {
+
+}
